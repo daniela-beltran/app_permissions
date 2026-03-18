@@ -1,5 +1,5 @@
 /// app_permissions
-library app_permissions;
+library;
 
 export 'src/domain/permission.dart';
 export 'src/domain/permission_identity.dart';

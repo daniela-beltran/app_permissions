@@ -3,4 +3,5 @@ enum PermissionStatus {
   denied,
   permanentlyDenied,
   requesting,
+  notDetermined,
 }
